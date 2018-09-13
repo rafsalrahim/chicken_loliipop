@@ -1,0 +1,5 @@
+place: Thodupuzha
+District:Idukki
+State: Kerala
+Famous for: its natural beauty
+population: 50000 or above
